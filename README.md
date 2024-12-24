@@ -16,6 +16,6 @@ This project is a jokes generator application with the following structure:
 2. Run `npm install` to install dependencies.
 3. Run `npm start` to start the React app.
 
-![Screenshot](https://user-images.githubusercontent.com/67027092/398393088-2885c488-eeef-4bbd-bcdd-3328c701bafa.png)
+![Screenshot]((https://github.com/user-attachments/assets/4f7249a7-7ae7-4b8c-b1c0-93b2b36c4aa7)
 
 
