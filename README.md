@@ -20,3 +20,4 @@ This project is a jokes generator application with the following structure:
 
 ![Screenshot](https://github.com/user-attachments/assets/0b13ed39-ebdc-4022-b44f-2409b96e7c1c)
 
+![Screenshot](https://github.com/user-attachments/assets/8272f95c-35af-473f-9dbd-116193f7246e)
