@@ -15,3 +15,6 @@ This project is a jokes generator application with the following structure:
 1. Navigate to `frontendJokeGeneratorProject`.
 2. Run `npm install` to install dependencies.
 3. Run `npm start` to start the React app.
+
+![Screenshot](https://github.com/FlorinMnt/JokeGeneratorProject/issues/1#issuecomment-123456789)
+
